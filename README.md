@@ -33,8 +33,7 @@ At first, my code was not working so I looked at it step by step and looked at w
 <br>
 Then I wanted to add buttons like a random spin game.
 <img width="785" alt="image" src="https://github.com/user-attachments/assets/3c763082-e503-44d8-8c8b-35d69fddec78" /><br>
-<br>
-I have added two buttons.
+
 
 
 
