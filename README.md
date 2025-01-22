@@ -38,6 +38,14 @@ I have added two buttons.
 
 
 ## Problem Solving & Code
+<img width="337" alt="image" src="https://github.com/user-attachments/assets/e1c75960-ee37-4c59-ace9-55cfd48bbd0d" />
+<br>
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/ea1c1f6d-3feb-441d-9264-a337dfc9e42e" /><br>
+<br>
+<img width="619" alt="image" src="https://github.com/user-attachments/assets/e96fedc2-5e05-418b-89fd-f35938400dd6" />
+
+
+
 
 ## Future Development
 
