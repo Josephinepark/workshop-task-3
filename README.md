@@ -16,6 +16,10 @@ tint (R,G,B)
 
 pixelDensity()
 loadPixel()
+<br>
+pixels [R,G,B,A]
+pixels [R,G,B,A,R,G,B,A,R,G,B,A]
+example: 48pixels x 4 = 192 elements in the array
 
 ## Process and Experimentation
 <img width="296" alt="image" src="https://github.com/user-attachments/assets/31ecfee7-cbcd-467e-ba42-a758f1c23a32" />
