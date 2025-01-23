@@ -2,7 +2,7 @@
 
 # Workshop 3 : Images
 
-[Website Link] 
+[Website Link] https://josephinepark.github.io/workshop-task-3/
 
 ## Task
 [] collect a series of images. Make a p5.js sketch that generates a new collage each time the sketch is run.<br>
