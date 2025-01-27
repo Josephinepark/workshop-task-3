@@ -75,7 +75,8 @@ For my future development, I believe that using a greater variety of images and 
 
 ## Reference / other sources that helped me
 
-images from Adobestock
+Images : from Adobestock
+
 <br>
 <br>
 https://www.youtube.com/watch?v=WvpsFttvl3E
@@ -84,12 +85,15 @@ https://www.youtube.com/watch?v=WvpsFttvl3E
 <br>
 <br>
 https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=1
+
 - Intro to Images tutorial (starting from how to load images...)
 <br>
 <br>
 https://www.youtube.com/watch?v=7BoJBYh16CQ&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=2
+
 - Animate an Image tutorial
 <br>
 <br>
 https://www.youtube.com/watch?v=DPFJROWdkQ8&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=3
+
 - An array of Images tutorial
