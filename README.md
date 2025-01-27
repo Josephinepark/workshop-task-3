@@ -4,6 +4,8 @@
 
 [Website Link] https://josephinepark.github.io/workshop-task-3/
 
+- Each time the ‘Add’ button is clicked, images randomly appears on the canvas, while the previously added images are blurred, gradually forming a collage.
+
 ## Task
 [] collect a series of images. Make a p5.js sketch that generates a new collage each time the sketch is run.<br>
 [] Include manipulations of the images so that they change over time, using filters and/or other kinds of computational interventions.<br>
@@ -72,11 +74,22 @@ In this workshop, I learned not only how to use images but also how pixels work 
 For my future development, I believe that using a greater variety of images and experimenting with different filters will allow me to create more diverse and impactful collages. Although I did not use it in this project website link, I frequently experimented with the tint() function while working on the workshop assignment. Through this, I learned how to adjust the colour tones of images. I believe that by incorporating additional functions in the future, I can produce even better results.
 
 ## Reference / other sources that helped me
-images from Adobestock<br>
+
+images from Adobestock
 <br>
-https://www.youtube.com/watch?v=WvpsFttvl3E<br>
 <br>
-https://www.youtube.com/watch?v=7BoJBYh16CQ&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=2<br>
+https://www.youtube.com/watch?v=WvpsFttvl3E
+
+- understanding images in p5.js
+<br>
+<br>
+https://www.youtube.com/watch?v=-f0WEitGmiw&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=1
+- Intro to Images tutorial (starting from how to load images...)
+<br>
+<br>
+https://www.youtube.com/watch?v=7BoJBYh16CQ&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=2
+- Animate an Image tutorial
+<br>
 <br>
 https://www.youtube.com/watch?v=DPFJROWdkQ8&list=PLEnUI-p39rnzECB8T4ZTryR2t-6MABoVK&index=3
-
+- An array of Images tutorial
